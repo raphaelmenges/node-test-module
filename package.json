@@ -5,7 +5,6 @@
   "author": "Raphael Menges",
   "license": "MIT",
   "scripts": {
-    "build": "node create-file.js"
-  },
-  "install": "npm run build"
+    "prepare": "node create-file.js"
+  }
 }
